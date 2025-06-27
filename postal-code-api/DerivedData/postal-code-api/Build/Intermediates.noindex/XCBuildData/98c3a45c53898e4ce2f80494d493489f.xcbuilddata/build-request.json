@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "xojit"
+  },
+  "buildDescriptionID" : "1f3bf220c4070bb99aceda3e4e4f01b9",
+  "configuredTargets" : [
+    {
+      "guid" : "0e5cf84bb5c344bbfa1a77fd43efeff7ed3893552eff3db53f528cb28ac12a1a"
+    }
+  ],
+  "containerPath" : "/Users/kenshin/Desktop/postal-code-api/postal-code-api/postal-code-api.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/kenshin/Desktop/postal-code-api/postal-code-api/DerivedData/postal-code-api/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/kenshin/Desktop/postal-code-api/postal-code-api/DerivedData/postal-code-api/Build/Products",
+      "derivedDataPath" : "/Users/kenshin/Desktop/postal-code-api/postal-code-api/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/kenshin/Desktop/postal-code-api/postal-code-api/DerivedData/postal-code-api/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/kenshin/Desktop/postal-code-api/postal-code-api/DerivedData/postal-code-api/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/kenshin/Desktop/postal-code-api/postal-code-api/DerivedData/postal-code-api/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone17,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone17,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "2FF649D8-F945-4CA9-9211-E609A8C24FC9",
+          "TARGET_DEVICE_MODEL" : "iPhone17,1",
+          "TARGET_DEVICE_OS_VERSION" : "18.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

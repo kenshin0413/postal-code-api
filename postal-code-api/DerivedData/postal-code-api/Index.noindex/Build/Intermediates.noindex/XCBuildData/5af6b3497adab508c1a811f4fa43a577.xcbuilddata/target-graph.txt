@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'postal-code-api' in project 'postal-code-api' (no dependencies)
+Target 'postal-code-api' in project 'postal-code-api' (no dependencies)
