@@ -23,11 +23,13 @@ struct Address: Identifiable, Decodable {
 struct ApiResponse: Decodable {
     let results: [Address]?
     let status: Int
+    let message: String?
 }
 
 struct ContentView: View {
     @State private var zipcode = ""
     @State private var addresses: [Address] = []
+    @State private var error: String?
     var body: some View {
         NavigationView {
             List {
@@ -36,6 +38,12 @@ struct ContentView: View {
                         .keyboardType(.numberPad)
                     Button("検索") {
                         search()
+                    }
+                }
+                
+                if let error = error {
+                    Section {
+                        Text("message\n\(error)")
                     }
                 }
                 
@@ -75,11 +83,19 @@ struct ContentView: View {
             }
         }
     }
+    
     func search() {
         let cleanedZipcode = zipcode.trimmingCharacters(in: .whitespacesAndNewlines).filter { $0.isNumber }
+        guard cleanedZipcode.count == 7 else {
+            DispatchQueue.main.async {
+                self.error = "パラメータ「郵便番号」の桁数が不正です。"
+                self.addresses = []
+            }
+            return
+        }
+        
         let urlStr = "https://zipcloud.ibsnet.co.jp/api/search?zipcode=\(cleanedZipcode)"
         guard let url = URL(string: urlStr) else {return}
-        
         Task {
             do {
                 let (data, _) = try await URLSession.shared.data(from: url)
