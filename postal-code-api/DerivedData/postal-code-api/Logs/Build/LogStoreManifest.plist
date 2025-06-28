@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>0B04DFC7-88F4-45F6-92B6-5B2720288823</key>
+		<key>2100C038-6272-4DBA-B06B-6F83C95B5B20</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0B04DFC7-88F4-45F6-92B6-5B2720288823.xcactivitylog</string>
+			<string>2100C038-6272-4DBA-B06B-6F83C95B5B20.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -40,15 +40,15 @@
 			<key>signature</key>
 			<string>Build postal-code-api</string>
 			<key>timeStartedRecording</key>
-			<real>772688052.25648201</real>
+			<real>772775902.98585403</real>
 			<key>timeStoppedRecording</key>
-			<real>772688054.11749101</real>
+			<real>772775905.50834298</real>
 			<key>title</key>
 			<string>Build postal-code-api</string>
 			<key>uniqueIdentifier</key>
-			<string>0B04DFC7-88F4-45F6-92B6-5B2720288823</string>
+			<string>2100C038-6272-4DBA-B06B-6F83C95B5B20</string>
 		</dict>
-		<key>0D0B3B97-A4F7-4546-AB36-D9A367436017</key>
+		<key>24CB60F7-9341-49F4-821D-ADE41A4BAB32</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -57,7 +57,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0D0B3B97-A4F7-4546-AB36-D9A367436017.xcactivitylog</string>
+			<string>24CB60F7-9341-49F4-821D-ADE41A4BAB32.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -82,15 +82,15 @@
 			<key>signature</key>
 			<string>Build postal-code-api</string>
 			<key>timeStartedRecording</key>
-			<real>772684912.38533497</real>
+			<real>772774556.81955397</real>
 			<key>timeStoppedRecording</key>
-			<real>772684914.15403605</real>
+			<real>772774557.30567396</real>
 			<key>title</key>
 			<string>Build postal-code-api</string>
 			<key>uniqueIdentifier</key>
-			<string>0D0B3B97-A4F7-4546-AB36-D9A367436017</string>
+			<string>24CB60F7-9341-49F4-821D-ADE41A4BAB32</string>
 		</dict>
-		<key>0EC16FB0-1FD0-41D0-90AB-6088E365F9C0</key>
+		<key>28251266-0B6C-49BE-A414-7BB8E9DB09EE</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -99,7 +99,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0EC16FB0-1FD0-41D0-90AB-6088E365F9C0.xcactivitylog</string>
+			<string>28251266-0B6C-49BE-A414-7BB8E9DB09EE.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -124,15 +124,15 @@
 			<key>signature</key>
 			<string>Build postal-code-api</string>
 			<key>timeStartedRecording</key>
-			<real>772686314.07085299</real>
+			<real>772775756.76343203</real>
 			<key>timeStoppedRecording</key>
-			<real>772686314.457183</real>
+			<real>772775758.71758497</real>
 			<key>title</key>
 			<string>Build postal-code-api</string>
 			<key>uniqueIdentifier</key>
-			<string>0EC16FB0-1FD0-41D0-90AB-6088E365F9C0</string>
+			<string>28251266-0B6C-49BE-A414-7BB8E9DB09EE</string>
 		</dict>
-		<key>0FB43222-F1B0-4E98-9081-3D4894874896</key>
+		<key>457DC8EA-BBD4-45C9-BE13-63BB670CDBAB</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -141,7 +141,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0FB43222-F1B0-4E98-9081-3D4894874896.xcactivitylog</string>
+			<string>457DC8EA-BBD4-45C9-BE13-63BB670CDBAB.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -166,15 +166,15 @@
 			<key>signature</key>
 			<string>Build postal-code-api</string>
 			<key>timeStartedRecording</key>
-			<real>772719628.87379503</real>
+			<real>772774180.16437995</real>
 			<key>timeStoppedRecording</key>
-			<real>772719630.85031903</real>
+			<real>772774182.26687896</real>
 			<key>title</key>
 			<string>Build postal-code-api</string>
 			<key>uniqueIdentifier</key>
-			<string>0FB43222-F1B0-4E98-9081-3D4894874896</string>
+			<string>457DC8EA-BBD4-45C9-BE13-63BB670CDBAB</string>
 		</dict>
-		<key>19770315-9B15-492C-8350-46568696875C</key>
+		<key>4DB2B511-9EB3-43E7-9B12-034917100AE0</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -183,7 +183,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>19770315-9B15-492C-8350-46568696875C.xcactivitylog</string>
+			<string>4DB2B511-9EB3-43E7-9B12-034917100AE0.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -208,15 +208,15 @@
 			<key>signature</key>
 			<string>Build postal-code-api</string>
 			<key>timeStartedRecording</key>
-			<real>772688330.51500797</real>
+			<real>772771835.01059401</real>
 			<key>timeStoppedRecording</key>
-			<real>772688332.441172</real>
+			<real>772771836.92380595</real>
 			<key>title</key>
 			<string>Build postal-code-api</string>
 			<key>uniqueIdentifier</key>
-			<string>19770315-9B15-492C-8350-46568696875C</string>
+			<string>4DB2B511-9EB3-43E7-9B12-034917100AE0</string>
 		</dict>
-		<key>1DB0D487-0647-4B5A-A91A-BA5ABCB841EF</key>
+		<key>9FCF0B3D-8B17-4C0B-B33C-A5568B721789</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -225,7 +225,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>1DB0D487-0647-4B5A-A91A-BA5ABCB841EF.xcactivitylog</string>
+			<string>9FCF0B3D-8B17-4C0B-B33C-A5568B721789.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -250,15 +250,15 @@
 			<key>signature</key>
 			<string>Build postal-code-api</string>
 			<key>timeStartedRecording</key>
-			<real>772688433.452443</real>
+			<real>772773860.26127005</real>
 			<key>timeStoppedRecording</key>
-			<real>772688435.27202201</real>
+			<real>772773862.30688906</real>
 			<key>title</key>
 			<string>Build postal-code-api</string>
 			<key>uniqueIdentifier</key>
-			<string>1DB0D487-0647-4B5A-A91A-BA5ABCB841EF</string>
+			<string>9FCF0B3D-8B17-4C0B-B33C-A5568B721789</string>
 		</dict>
-		<key>2B49FED4-0445-432C-9654-BDA57CA79C9B</key>
+		<key>AE3F6A15-B8A0-43DC-AB63-1CCBB58E0E1F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -267,7 +267,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2B49FED4-0445-432C-9654-BDA57CA79C9B.xcactivitylog</string>
+			<string>AE3F6A15-B8A0-43DC-AB63-1CCBB58E0E1F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -292,15 +292,15 @@
 			<key>signature</key>
 			<string>Build postal-code-api</string>
 			<key>timeStartedRecording</key>
-			<real>772720701.29682398</real>
+			<real>772774385.64738703</real>
 			<key>timeStoppedRecording</key>
-			<real>772720703.65382695</real>
+			<real>772774385.90083098</real>
 			<key>title</key>
 			<string>Build postal-code-api</string>
 			<key>uniqueIdentifier</key>
-			<string>2B49FED4-0445-432C-9654-BDA57CA79C9B</string>
+			<string>AE3F6A15-B8A0-43DC-AB63-1CCBB58E0E1F</string>
 		</dict>
-		<key>2FC3388D-1A47-4D14-90B1-415E144D116D</key>
+		<key>AEB4A8B5-0EF5-4619-AD74-5A58FDC05FDE</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -309,7 +309,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2FC3388D-1A47-4D14-90B1-415E144D116D.xcactivitylog</string>
+			<string>AEB4A8B5-0EF5-4619-AD74-5A58FDC05FDE.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -334,15 +334,15 @@
 			<key>signature</key>
 			<string>Build postal-code-api</string>
 			<key>timeStartedRecording</key>
-			<real>772720648.86112297</real>
+			<real>772774216.78122306</real>
 			<key>timeStoppedRecording</key>
-			<real>772720651.27406394</real>
+			<real>772774217.19339299</real>
 			<key>title</key>
 			<string>Build postal-code-api</string>
 			<key>uniqueIdentifier</key>
-			<string>2FC3388D-1A47-4D14-90B1-415E144D116D</string>
+			<string>AEB4A8B5-0EF5-4619-AD74-5A58FDC05FDE</string>
 		</dict>
-		<key>32CC638E-7836-4832-94F6-8F492BB56C28</key>
+		<key>B422DFBB-96D8-4770-86E6-45D9FB822F35</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -351,7 +351,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>32CC638E-7836-4832-94F6-8F492BB56C28.xcactivitylog</string>
+			<string>B422DFBB-96D8-4770-86E6-45D9FB822F35.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -376,15 +376,15 @@
 			<key>signature</key>
 			<string>Build postal-code-api</string>
 			<key>timeStartedRecording</key>
-			<real>772683892.49100804</real>
+			<real>772774021.36215103</real>
 			<key>timeStoppedRecording</key>
-			<real>772683894.24075997</real>
+			<real>772774023.24386299</real>
 			<key>title</key>
 			<string>Build postal-code-api</string>
 			<key>uniqueIdentifier</key>
-			<string>32CC638E-7836-4832-94F6-8F492BB56C28</string>
+			<string>B422DFBB-96D8-4770-86E6-45D9FB822F35</string>
 		</dict>
-		<key>364CD174-408B-4FFC-99EA-C3ED2478B3C1</key>
+		<key>BBAF54F8-1E2C-4328-8FE3-99683DA21955</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -393,7 +393,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>364CD174-408B-4FFC-99EA-C3ED2478B3C1.xcactivitylog</string>
+			<string>BBAF54F8-1E2C-4328-8FE3-99683DA21955.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -418,15 +418,15 @@
 			<key>signature</key>
 			<string>Build postal-code-api</string>
 			<key>timeStartedRecording</key>
-			<real>772723817.90397596</real>
+			<real>772771640.05095303</real>
 			<key>timeStoppedRecording</key>
-			<real>772723819.59252906</real>
+			<real>772771642.17154503</real>
 			<key>title</key>
 			<string>Build postal-code-api</string>
 			<key>uniqueIdentifier</key>
-			<string>364CD174-408B-4FFC-99EA-C3ED2478B3C1</string>
+			<string>BBAF54F8-1E2C-4328-8FE3-99683DA21955</string>
 		</dict>
-		<key>39773896-C90D-437E-8DB6-19B726023C67</key>
+		<key>BF4313A7-1F9F-4ABA-8B90-CCEFD0C1E680</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -435,7 +435,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>39773896-C90D-437E-8DB6-19B726023C67.xcactivitylog</string>
+			<string>BF4313A7-1F9F-4ABA-8B90-CCEFD0C1E680.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -460,15 +460,15 @@
 			<key>signature</key>
 			<string>Build postal-code-api</string>
 			<key>timeStartedRecording</key>
-			<real>772688220.84061205</real>
+			<real>772774332.070158</real>
 			<key>timeStoppedRecording</key>
-			<real>772688222.70391703</real>
+			<real>772774334.66518605</real>
 			<key>title</key>
 			<string>Build postal-code-api</string>
 			<key>uniqueIdentifier</key>
-			<string>39773896-C90D-437E-8DB6-19B726023C67</string>
+			<string>BF4313A7-1F9F-4ABA-8B90-CCEFD0C1E680</string>
 		</dict>
-		<key>3B17C270-31A9-4576-B67F-8DFEEA14E796</key>
+		<key>D094EAB5-2C86-49A8-A82F-E192C227F2B1</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -477,7 +477,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>3B17C270-31A9-4576-B67F-8DFEEA14E796.xcactivitylog</string>
+			<string>D094EAB5-2C86-49A8-A82F-E192C227F2B1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -502,15 +502,15 @@
 			<key>signature</key>
 			<string>Build postal-code-api</string>
 			<key>timeStartedRecording</key>
-			<real>772723716.20112801</real>
+			<real>772772582.74643004</real>
 			<key>timeStoppedRecording</key>
-			<real>772723718.17306697</real>
+			<real>772772584.97940004</real>
 			<key>title</key>
 			<string>Build postal-code-api</string>
 			<key>uniqueIdentifier</key>
-			<string>3B17C270-31A9-4576-B67F-8DFEEA14E796</string>
+			<string>D094EAB5-2C86-49A8-A82F-E192C227F2B1</string>
 		</dict>
-		<key>430FC6BC-C18A-4AE8-A7E5-2F2A4BF76FF9</key>
+		<key>D0A6778A-FFB8-47E7-8384-277B6C462CD2</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -519,7 +519,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>430FC6BC-C18A-4AE8-A7E5-2F2A4BF76FF9.xcactivitylog</string>
+			<string>D0A6778A-FFB8-47E7-8384-277B6C462CD2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -544,15 +544,15 @@
 			<key>signature</key>
 			<string>Build postal-code-api</string>
 			<key>timeStartedRecording</key>
-			<real>772686469.55723906</real>
+			<real>772774248.22299504</real>
 			<key>timeStoppedRecording</key>
-			<real>772686471.52701104</real>
+			<real>772774250.64056396</real>
 			<key>title</key>
 			<string>Build postal-code-api</string>
 			<key>uniqueIdentifier</key>
-			<string>430FC6BC-C18A-4AE8-A7E5-2F2A4BF76FF9</string>
+			<string>D0A6778A-FFB8-47E7-8384-277B6C462CD2</string>
 		</dict>
-		<key>43FE327C-FC98-48DF-B670-E3A8CE6BEACB</key>
+		<key>D80D1F2A-93C3-4D64-B5D9-6CB666EA62E9</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -561,7 +561,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>43FE327C-FC98-48DF-B670-E3A8CE6BEACB.xcactivitylog</string>
+			<string>D80D1F2A-93C3-4D64-B5D9-6CB666EA62E9.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -586,1735 +586,13 @@
 			<key>signature</key>
 			<string>Build postal-code-api</string>
 			<key>timeStartedRecording</key>
-			<real>772719965.70524204</real>
+			<real>772773286.90944695</real>
 			<key>timeStoppedRecording</key>
-			<real>772719967.48943198</real>
+			<real>772773288.882833</real>
 			<key>title</key>
 			<string>Build postal-code-api</string>
 			<key>uniqueIdentifier</key>
-			<string>43FE327C-FC98-48DF-B670-E3A8CE6BEACB</string>
-		</dict>
-		<key>458DC062-1096-41CB-A0A1-CBFB5A2C7AA4</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>458DC062-1096-41CB-A0A1-CBFB5A2C7AA4.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772685610.00915003</real>
-			<key>timeStoppedRecording</key>
-			<real>772685611.83728302</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>458DC062-1096-41CB-A0A1-CBFB5A2C7AA4</string>
-		</dict>
-		<key>4658BE32-B9D2-4111-ADA6-A2AC687DF63F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>4658BE32-B9D2-4111-ADA6-A2AC687DF63F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772685012.25448096</real>
-			<key>timeStoppedRecording</key>
-			<real>772685014.26858699</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>4658BE32-B9D2-4111-ADA6-A2AC687DF63F</string>
-		</dict>
-		<key>4E8089D0-CE5B-4039-B88A-B74BFA9B9B27</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>4E8089D0-CE5B-4039-B88A-B74BFA9B9B27.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772685646.26860404</real>
-			<key>timeStoppedRecording</key>
-			<real>772685648.15505397</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>4E8089D0-CE5B-4039-B88A-B74BFA9B9B27</string>
-		</dict>
-		<key>593EE645-391B-4BE8-986C-5923E62DF925</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>593EE645-391B-4BE8-986C-5923E62DF925.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772719922.32811499</real>
-			<key>timeStoppedRecording</key>
-			<real>772719924.06299198</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>593EE645-391B-4BE8-986C-5923E62DF925</string>
-		</dict>
-		<key>59F77301-C5C6-4DE7-9613-6F5B060A47E4</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>59F77301-C5C6-4DE7-9613-6F5B060A47E4.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772686141.86723006</real>
-			<key>timeStoppedRecording</key>
-			<real>772686143.68138897</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>59F77301-C5C6-4DE7-9613-6F5B060A47E4</string>
-		</dict>
-		<key>5CEEFEB4-3773-470B-BFFD-9472E7D955C1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>5CEEFEB4-3773-470B-BFFD-9472E7D955C1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build (Automatic) postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772683239.32896495</real>
-			<key>timeStoppedRecording</key>
-			<real>772683241.12416303</real>
-			<key>title</key>
-			<string>Build (Automatic) postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>5CEEFEB4-3773-470B-BFFD-9472E7D955C1</string>
-		</dict>
-		<key>5D455DCB-CBBF-4805-B2D7-A035E53FE133</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>5D455DCB-CBBF-4805-B2D7-A035E53FE133.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772685449.15514398</real>
-			<key>timeStoppedRecording</key>
-			<real>772685451.13034499</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>5D455DCB-CBBF-4805-B2D7-A035E53FE133</string>
-		</dict>
-		<key>5E3DCB2D-5911-441A-B78D-7E8EBAB5E377</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>5E3DCB2D-5911-441A-B78D-7E8EBAB5E377.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772685417.14179599</real>
-			<key>timeStoppedRecording</key>
-			<real>772685418.95618796</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>5E3DCB2D-5911-441A-B78D-7E8EBAB5E377</string>
-		</dict>
-		<key>61E6A3F7-5B2D-4CE0-BDC3-C6BB37910A29</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>61E6A3F7-5B2D-4CE0-BDC3-C6BB37910A29.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772686978.75550604</real>
-			<key>timeStoppedRecording</key>
-			<real>772686980.77508199</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>61E6A3F7-5B2D-4CE0-BDC3-C6BB37910A29</string>
-		</dict>
-		<key>65488637-551F-494A-8588-1C4B284E5499</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>65488637-551F-494A-8588-1C4B284E5499.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772688676.99311996</real>
-			<key>timeStoppedRecording</key>
-			<real>772688678.85517097</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>65488637-551F-494A-8588-1C4B284E5499</string>
-		</dict>
-		<key>69E6B789-0213-4DF6-812F-ACEFD2CB69B0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>69E6B789-0213-4DF6-812F-ACEFD2CB69B0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772684273.20887196</real>
-			<key>timeStoppedRecording</key>
-			<real>772684274.79225004</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>69E6B789-0213-4DF6-812F-ACEFD2CB69B0</string>
-		</dict>
-		<key>6C8DFEA9-0F7D-40B9-BA74-A55BA44C9BFC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6C8DFEA9-0F7D-40B9-BA74-A55BA44C9BFC.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772686083.22984803</real>
-			<key>timeStoppedRecording</key>
-			<real>772686085.17863297</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>6C8DFEA9-0F7D-40B9-BA74-A55BA44C9BFC</string>
-		</dict>
-		<key>6CE8741E-CA92-4AA9-9FAC-F523595F9888</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6CE8741E-CA92-4AA9-9FAC-F523595F9888.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772685735.68745399</real>
-			<key>timeStoppedRecording</key>
-			<real>772685737.21681905</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>6CE8741E-CA92-4AA9-9FAC-F523595F9888</string>
-		</dict>
-		<key>71427C73-3FC3-43CA-80A5-A0573598D435</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>71427C73-3FC3-43CA-80A5-A0573598D435.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772684136.71261799</real>
-			<key>timeStoppedRecording</key>
-			<real>772684138.33553803</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>71427C73-3FC3-43CA-80A5-A0573598D435</string>
-		</dict>
-		<key>71F0A3F2-0A6E-4BFD-B9D3-58DDB3D16608</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>71F0A3F2-0A6E-4BFD-B9D3-58DDB3D16608.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772724248.86542296</real>
-			<key>timeStoppedRecording</key>
-			<real>772724250.60615206</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>71F0A3F2-0A6E-4BFD-B9D3-58DDB3D16608</string>
-		</dict>
-		<key>7710F8BA-B523-4255-9173-CDF877128613</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7710F8BA-B523-4255-9173-CDF877128613.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772720783.23927903</real>
-			<key>timeStoppedRecording</key>
-			<real>772720785.15680003</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>7710F8BA-B523-4255-9173-CDF877128613</string>
-		</dict>
-		<key>77B495DF-9F64-42D2-B46D-F50B51829248</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>77B495DF-9F64-42D2-B46D-F50B51829248.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772687575.75937498</real>
-			<key>timeStoppedRecording</key>
-			<real>772687577.70442796</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>77B495DF-9F64-42D2-B46D-F50B51829248</string>
-		</dict>
-		<key>7939D599-778A-4CF5-AF38-9A7996EEA729</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7939D599-778A-4CF5-AF38-9A7996EEA729.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772685681.42738998</real>
-			<key>timeStoppedRecording</key>
-			<real>772685683.34077096</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>7939D599-778A-4CF5-AF38-9A7996EEA729</string>
-		</dict>
-		<key>7EF5C7C0-CE26-469D-AAF2-E514AE5CBCA1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7EF5C7C0-CE26-469D-AAF2-E514AE5CBCA1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772684829.62827003</real>
-			<key>timeStoppedRecording</key>
-			<real>772684831.53731</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>7EF5C7C0-CE26-469D-AAF2-E514AE5CBCA1</string>
-		</dict>
-		<key>978F514B-8E7F-4A57-9B5E-E507E3EC2762</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>978F514B-8E7F-4A57-9B5E-E507E3EC2762.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772719765.21613204</real>
-			<key>timeStoppedRecording</key>
-			<real>772719767.06251895</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>978F514B-8E7F-4A57-9B5E-E507E3EC2762</string>
-		</dict>
-		<key>988E4754-6DF5-4D05-AA95-C74247E1B36C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>988E4754-6DF5-4D05-AA95-C74247E1B36C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772685152.54000401</real>
-			<key>timeStoppedRecording</key>
-			<real>772685154.42146599</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>988E4754-6DF5-4D05-AA95-C74247E1B36C</string>
-		</dict>
-		<key>9C2E76A4-DE1E-4047-9A89-E25087067F06</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9C2E76A4-DE1E-4047-9A89-E25087067F06.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772688919.10117996</real>
-			<key>timeStoppedRecording</key>
-			<real>772688920.86766899</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>9C2E76A4-DE1E-4047-9A89-E25087067F06</string>
-		</dict>
-		<key>9EF7E79A-7E99-4A49-A28C-D7F019A9583E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9EF7E79A-7E99-4A49-A28C-D7F019A9583E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772722916.63647103</real>
-			<key>timeStoppedRecording</key>
-			<real>772722918.96528602</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>9EF7E79A-7E99-4A49-A28C-D7F019A9583E</string>
-		</dict>
-		<key>A24101CE-C246-4D13-8E25-51CB6BC89C30</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A24101CE-C246-4D13-8E25-51CB6BC89C30.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772724132.20397794</real>
-			<key>timeStoppedRecording</key>
-			<real>772724133.95957005</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>A24101CE-C246-4D13-8E25-51CB6BC89C30</string>
-		</dict>
-		<key>A583886D-ABCE-4F7D-82C6-FA0EC29C93C2</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A583886D-ABCE-4F7D-82C6-FA0EC29C93C2.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build (Automatic) postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772631080.01750302</real>
-			<key>timeStoppedRecording</key>
-			<real>772631097.76741695</real>
-			<key>title</key>
-			<string>Build (Automatic) postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>A583886D-ABCE-4F7D-82C6-FA0EC29C93C2</string>
-		</dict>
-		<key>A5FA9982-D68C-410F-B079-2FE5F71F1F82</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A5FA9982-D68C-410F-B079-2FE5F71F1F82.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772688550.44791698</real>
-			<key>timeStoppedRecording</key>
-			<real>772688552.26113403</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>A5FA9982-D68C-410F-B079-2FE5F71F1F82</string>
-		</dict>
-		<key>A8637C7D-0EE3-4698-B291-8CFDEAA8809A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A8637C7D-0EE3-4698-B291-8CFDEAA8809A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772721573.01237297</real>
-			<key>timeStoppedRecording</key>
-			<real>772721575.11949396</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>A8637C7D-0EE3-4698-B291-8CFDEAA8809A</string>
-		</dict>
-		<key>A8E63B14-BCE1-4031-AF9A-BCAAE8F87D7C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A8E63B14-BCE1-4031-AF9A-BCAAE8F87D7C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772688727.92787194</real>
-			<key>timeStoppedRecording</key>
-			<real>772688729.71034205</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>A8E63B14-BCE1-4031-AF9A-BCAAE8F87D7C</string>
-		</dict>
-		<key>AC25B50A-318B-4A0C-BC3A-64A25579A7C5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>AC25B50A-318B-4A0C-BC3A-64A25579A7C5.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772685370.78111804</real>
-			<key>timeStoppedRecording</key>
-			<real>772685372.60556901</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>AC25B50A-318B-4A0C-BC3A-64A25579A7C5</string>
-		</dict>
-		<key>AD8CC78E-8B18-4D3F-A076-714C052BC2EE</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>AD8CC78E-8B18-4D3F-A076-714C052BC2EE.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772684251.73460305</real>
-			<key>timeStoppedRecording</key>
-			<real>772684253.30772197</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>AD8CC78E-8B18-4D3F-A076-714C052BC2EE</string>
-		</dict>
-		<key>B17654A8-0583-4F93-960C-D0673D7BF364</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B17654A8-0583-4F93-960C-D0673D7BF364.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772719734.63892496</real>
-			<key>timeStoppedRecording</key>
-			<real>772719736.36331201</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>B17654A8-0583-4F93-960C-D0673D7BF364</string>
-		</dict>
-		<key>B3809473-5B95-4B9A-ADB1-2D81FF445213</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B3809473-5B95-4B9A-ADB1-2D81FF445213.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772688163.56359696</real>
-			<key>timeStoppedRecording</key>
-			<real>772688165.41829503</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>B3809473-5B95-4B9A-ADB1-2D81FF445213</string>
-		</dict>
-		<key>BAB9D2E4-6AE3-4DA6-A3EE-97C1DFFE35FB</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BAB9D2E4-6AE3-4DA6-A3EE-97C1DFFE35FB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772686333.97744095</real>
-			<key>timeStoppedRecording</key>
-			<real>772686335.85122001</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>BAB9D2E4-6AE3-4DA6-A3EE-97C1DFFE35FB</string>
-		</dict>
-		<key>BD9B6C19-D1A6-4B59-8655-3AD78ABFC7DC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BD9B6C19-D1A6-4B59-8655-3AD78ABFC7DC.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>4</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772686793.99776495</real>
-			<key>timeStoppedRecording</key>
-			<real>772686794.86884105</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>BD9B6C19-D1A6-4B59-8655-3AD78ABFC7DC</string>
-		</dict>
-		<key>C2D3A1C8-0C5F-4675-8E6E-63413EF58A0A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>C2D3A1C8-0C5F-4675-8E6E-63413EF58A0A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772683273.44384694</real>
-			<key>timeStoppedRecording</key>
-			<real>772683276.669909</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>C2D3A1C8-0C5F-4675-8E6E-63413EF58A0A</string>
-		</dict>
-		<key>CDF3B32F-8487-4E7D-BF9F-5047B1694774</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CDF3B32F-8487-4E7D-BF9F-5047B1694774.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772723670.13213801</real>
-			<key>timeStoppedRecording</key>
-			<real>772723672.03747106</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>CDF3B32F-8487-4E7D-BF9F-5047B1694774</string>
-		</dict>
-		<key>CE884FEA-A3B0-4EEF-A18E-B542DF503E21</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CE884FEA-A3B0-4EEF-A18E-B542DF503E21.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772720564.03438902</real>
-			<key>timeStoppedRecording</key>
-			<real>772720565.73543406</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>CE884FEA-A3B0-4EEF-A18E-B542DF503E21</string>
-		</dict>
-		<key>CEDBBB0E-1601-43D4-878F-9C98641B3F69</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CEDBBB0E-1601-43D4-878F-9C98641B3F69.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772688635.88414395</real>
-			<key>timeStoppedRecording</key>
-			<real>772688637.634992</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>CEDBBB0E-1601-43D4-878F-9C98641B3F69</string>
-		</dict>
-		<key>DF142882-F502-4CA1-ADE6-BAF9F471FE41</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>DF142882-F502-4CA1-ADE6-BAF9F471FE41.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772685854.437415</real>
-			<key>timeStoppedRecording</key>
-			<real>772685856.23774397</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>DF142882-F502-4CA1-ADE6-BAF9F471FE41</string>
-		</dict>
-		<key>E3422D31-36F7-42E2-9B29-31049826F20D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E3422D31-36F7-42E2-9B29-31049826F20D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772685728.45208895</real>
-			<key>timeStoppedRecording</key>
-			<real>772685729.16881299</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>E3422D31-36F7-42E2-9B29-31049826F20D</string>
-		</dict>
-		<key>E5FD227F-D5EC-4A70-B6D3-2412926DE888</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E5FD227F-D5EC-4A70-B6D3-2412926DE888.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772720603.55894601</real>
-			<key>timeStoppedRecording</key>
-			<real>772720605.26707196</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>E5FD227F-D5EC-4A70-B6D3-2412926DE888</string>
+			<string>D80D1F2A-93C3-4D64-B5D9-6CB666EA62E9</string>
 		</dict>
 		<key>EB4A0D96-8503-48E9-B2AE-2ABF96770688</key>
 		<dict>
@@ -2358,7 +636,7 @@
 			<key>uniqueIdentifier</key>
 			<string>EB4A0D96-8503-48E9-B2AE-2ABF96770688</string>
 		</dict>
-		<key>F94406A4-0DB3-446B-B9BD-214F2E6CF1FE</key>
+		<key>F094CF30-98AE-4D2B-AF85-22C9E4042379</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -2367,7 +645,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>F94406A4-0DB3-446B-B9BD-214F2E6CF1FE.xcactivitylog</string>
+			<string>F094CF30-98AE-4D2B-AF85-22C9E4042379.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2392,55 +670,13 @@
 			<key>signature</key>
 			<string>Build postal-code-api</string>
 			<key>timeStartedRecording</key>
-			<real>772683754.774297</real>
+			<real>772774503.51501703</real>
 			<key>timeStoppedRecording</key>
-			<real>772683757.13861501</real>
+			<real>772774504.06666899</real>
 			<key>title</key>
 			<string>Build postal-code-api</string>
 			<key>uniqueIdentifier</key>
-			<string>F94406A4-0DB3-446B-B9BD-214F2E6CF1FE</string>
-		</dict>
-		<key>FE24901E-BEA4-4753-8427-A71ABA7171DC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FE24901E-BEA4-4753-8427-A71ABA7171DC.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>postal-code-api project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>postal-code-api</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build postal-code-api</string>
-			<key>timeStartedRecording</key>
-			<real>772723500.08647895</real>
-			<key>timeStoppedRecording</key>
-			<real>772723502.06958103</real>
-			<key>title</key>
-			<string>Build postal-code-api</string>
-			<key>uniqueIdentifier</key>
-			<string>FE24901E-BEA4-4753-8427-A71ABA7171DC</string>
+			<string>F094CF30-98AE-4D2B-AF85-22C9E4042379</string>
 		</dict>
 	</dict>
 </dict>
