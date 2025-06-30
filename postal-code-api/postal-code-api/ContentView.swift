@@ -27,9 +27,9 @@ struct ApiResponse: Decodable {
 }
 
 struct ContentView: View {
-    @State private var zipcode = ""
-    @State private var addresses: [Address] = []
-    @State private var error: String?
+    @State var zipcode = ""
+    @State var error: String? = nil
+    @State var apiresponse: ApiResponse = ApiResponse(results: nil, status: 0, message: nil)
     var body: some View {
         NavigationView {
             List {
@@ -43,13 +43,13 @@ struct ContentView: View {
                     }
                 }
                 
-                if let error = error {
-                    Section {
-                        Text("message\n\(error)")
+                if apiresponse.message != nil {
+                    LabeledContent("message") {
+                        Text(apiresponse.message ?? "")
                     }
                 }
-                
-                ForEach(addresses) { a in
+                // ??はnilの時何を入れますか(デフォルト値)
+                ForEach(apiresponse.results ?? []) { a in
                     LabeledContent("address1") {
                         Text(a.address1)
                     }
@@ -91,7 +91,7 @@ struct ContentView: View {
             guard let url = URL(string: "https://zipcloud.ibsnet.co.jp/api/search?zipcode=\(zipcode)") else {return}
             let (data, _) = try await URLSession.shared.data(from: url)
             let res = try JSONDecoder().decode(ApiResponse.self, from: data)
-            addresses = res.results ?? []
+            apiresponse = res
         } catch {}
     }
 }

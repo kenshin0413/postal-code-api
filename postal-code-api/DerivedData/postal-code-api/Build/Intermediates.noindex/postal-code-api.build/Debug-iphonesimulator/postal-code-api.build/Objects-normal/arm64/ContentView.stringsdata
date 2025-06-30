@@ -4,6 +4,14 @@
     "Localizable": [
       {
         "comment": "",
+        "key": "message",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
         "key": "郵便番号を入力してください",
         "location": {
           "startingColumn": 31,
@@ -20,18 +28,10 @@
       },
       {
         "comment": "",
-        "key": "message\n%@",
-        "location": {
-          "startingColumn": 30,
-          "startingLine": 46
-        }
-      },
-      {
-        "comment": "",
         "key": "address1",
         "location": {
           "startingColumn": 36,
-          "startingLine": 52
+          "startingLine": 53
         }
       },
       {
@@ -39,7 +39,7 @@
         "key": "address2",
         "location": {
           "startingColumn": 36,
-          "startingLine": 56
+          "startingLine": 57
         }
       },
       {
@@ -47,7 +47,7 @@
         "key": "address3",
         "location": {
           "startingColumn": 36,
-          "startingLine": 60
+          "startingLine": 61
         }
       },
       {
@@ -55,7 +55,7 @@
         "key": "kana1",
         "location": {
           "startingColumn": 36,
-          "startingLine": 64
+          "startingLine": 65
         }
       },
       {
@@ -63,7 +63,7 @@
         "key": "kana2",
         "location": {
           "startingColumn": 36,
-          "startingLine": 68
+          "startingLine": 69
         }
       },
       {
@@ -71,7 +71,7 @@
         "key": "kana3",
         "location": {
           "startingColumn": 36,
-          "startingLine": 72
+          "startingLine": 73
         }
       },
       {
@@ -79,7 +79,7 @@
         "key": "prefcode",
         "location": {
           "startingColumn": 36,
-          "startingLine": 76
+          "startingLine": 77
         }
       },
       {
@@ -87,7 +87,7 @@
         "key": "zipcode",
         "location": {
           "startingColumn": 36,
-          "startingLine": 80
+          "startingLine": 81
         }
       }
     ]
