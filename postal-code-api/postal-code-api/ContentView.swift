@@ -80,9 +80,8 @@ struct ContentView: View {
     
     func search() async {
         do {
-            let cleaned = zipcode.filter(\.isNumber)
-            guard cleaned.count == 7 else { return }
-            guard let url = URL(string: "https://zipcloud.ibsnet.co.jp/api/search?zipcode=\(cleaned)") else {return}
+
+            guard let url = URL(string: "https://zipcloud.ibsnet.co.jp/api/search?zipcode=\(zipcode)") else {return}
             let (data, _) = try await URLSession.shared.data(from: url)
             let res = try JSONDecoder().decode(ApiResponse.self, from: data)
             addresses = res.results ?? []
