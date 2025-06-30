@@ -37,7 +37,9 @@ struct ContentView: View {
                     TextField("郵便番号を入力してください", text: $zipcode)
                         .keyboardType(.numberPad)
                     Button("検索") {
-                        search()
+                        Task {
+                            await search()
+                        }
                     }
                 }
                 
@@ -84,29 +86,12 @@ struct ContentView: View {
         }
     }
     
-    func search() {
-        let cleanedZipcode = zipcode.trimmingCharacters(in: .whitespacesAndNewlines).filter { $0.isNumber }
-        guard cleanedZipcode.count == 7 else {
-            DispatchQueue.main.async {
-                self.error = "パラメータ「郵便番号」の桁数が不正です。"
-                self.addresses = []
-            }
-            return
-        }
-        
-        let urlStr = "https://zipcloud.ibsnet.co.jp/api/search?zipcode=\(cleanedZipcode)"
-        guard let url = URL(string: urlStr) else {return}
-        Task {
-            do {
-                let (data, _) = try await URLSession.shared.data(from: url)
-                let res = try JSONDecoder().decode(ApiResponse.self, from: data)
-                DispatchQueue.main.async {
-                    // 200は成功 そしたらaddressに結果を格納
-                    if res.status == 200, let results = res.results {
-                        self.addresses = results
-                    }
-                }
-            }
-        }
+    func search() async {
+        do {
+            guard let url = URL(string: "https://zipcloud.ibsnet.co.jp/api/search?zipcode=\(zipcode)") else {return}
+            let (data, _) = try await URLSession.shared.data(from: url)
+            let res = try JSONDecoder().decode(ApiResponse.self, from: data)
+            addresses = res.results ?? []
+        } catch {}
     }
 }
