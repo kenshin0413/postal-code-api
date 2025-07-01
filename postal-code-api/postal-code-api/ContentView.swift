@@ -30,6 +30,8 @@ struct ContentView: View {
     @State var zipcode = ""
     @State var error: String? = nil
     @State var apiresponse: ApiResponse = ApiResponse(results: nil, status: 0, message: nil)
+    @State var showErrorAlert = false
+    @State var errorMessage = ""
     var body: some View {
         NavigationView {
             List {
@@ -83,6 +85,11 @@ struct ContentView: View {
                     }
                 }
             }
+            .alert("エラー", isPresented: $showErrorAlert) {
+                Button("OK", role: .cancel) {}
+            } message: {
+                Text(errorMessage)
+            }
         }
     }
     
@@ -92,6 +99,9 @@ struct ContentView: View {
             let (data, _) = try await URLSession.shared.data(from: url)
             let res = try JSONDecoder().decode(ApiResponse.self, from: data)
             apiresponse = res
-        } catch {}
+        } catch {
+            errorMessage = error.localizedDescription
+            showErrorAlert = true
+        }
     }
 }
