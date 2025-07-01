@@ -1,0 +1,96 @@
+{
+  "source": "/Users/kenshin/Desktop/postal-code-api/postal-code-api/postal-code-api/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "message",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "郵便番号を入力してください",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "検索",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "address1",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "address2",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "address3",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "kana1",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "kana2",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "kana3",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "prefcode",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "zipcode",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 81
+        }
+      }
+    ]
+  },
+  "version": 1
+}
